@@ -1,17 +1,17 @@
 export function getPortfolio() {
   return [
     {
-    	link : 'http://www.goldmansachs.com',
-    	title : 'Goldman Sachs',
+    	link : 'http://parameals.com/#/',
+    	title : 'Parameals',
     	classname : 'goldmans',
     	roles : [
     		{
     			title : 'Front End Developer',
-    			skills : 'React, Backbone, D3'
+    			skills : 'Angular, jQuery, CSS3'
     		},
     		{
     			title : 'Back End Developer',
-    			skills : 'Node, MongoDB, Webpack'
+    			skills : 'SQL, Node, Express, FireBase, Stripe, Passport'
     		}
     	]
     },

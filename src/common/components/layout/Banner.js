@@ -6,7 +6,7 @@ class Banner extends Component {
 
     return (
 	    <div className="contact-banner">
-      		<p>Contact me at <em>callum(at)deadtrendy.co.uk</em> or call <em>07919 411 405</em></p>
+      		<p>Contact me at <em>shivapatel15@yahoo.com</em> or call <em>423-765-7516</em></p>
       	</div>
     );
   }
