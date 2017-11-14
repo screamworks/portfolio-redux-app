@@ -61,15 +61,16 @@
 */
 
 .goldmans {
-	background:#fff url(assets/goldmans.jpg) top no-repeat;
+	background:#fff url(assets/para2.png) top no-repeat;
+
 }
 
 .orange {
-	background:#fff url(assets/orange.jpg) top no-repeat;
+	background:#fff url(assets/moodx2.png) top no-repeat;
 }
 
 .tesco {
-	background:#fff url(assets/tesco.png) top no-repeat;
+	background:#fff url(assets/gather.png) top no-repeat;
 }
 
 .timeout {
