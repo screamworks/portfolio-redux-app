@@ -56,10 +56,8 @@ class Home extends Component {
                 <li><em><b>*</b>mySQL</em></li>
                 <li><em><b>*</b>Yarn</em></li>
                 <li><em><b></b>Node</em></li>
-                <ul>
-                  <li><em><b>*</b>Express</em></li>
+                <li><em><b>*</b>Express</em></li>
 
-                </ul>
 
               </ul>
             </div>
