@@ -20,8 +20,8 @@ class Home extends Component {
       	<div className="posts">
 
           <div className="post banner">
-            <h1 className="post-title">I build <em>scalable</em>, <em>maintainable</em> and <em>secure</em> enterprise  applications.</h1>
-            <p>for <em>agencies</em>, <em>bluechips</em>, <em>start-ups</em> and sometimes, <em>myself</em>. <a href="#" onClick={this.eventToggleSidebar}> Find out More</a></p>
+            <h1 className="post-title">I build <em>scalable</em>, <em>maintainable</em> and <em>secure</em>software applications.</h1>
+            <p>for <em>agencies</em>, <em>start-ups</em> and sometimes, <em>myself</em>. <a href="#" onClick={this.eventToggleSidebar}> Find out More</a></p>
 
           </div>
 
@@ -53,7 +53,7 @@ class Home extends Component {
                   <li><em><b></b>Authentication</em></li>
                   <li><em><b></b>Storing/Images/Upload</em></li>
                 </ul>
-                <li><em><b>*</b>mySQL</em></li>
+                <li><em><b>*</b>postgresQL</em></li>
                 <li><em><b>*</b>Yarn</em></li>
                 <li><em><b></b>Node</em></li>
                 <li><em><b>*</b>Express</em></li>
