@@ -2,6 +2,9 @@
   "name": "portfolio-redux-app",
   "version": "0.0.1",
   "description": "A portfolio template built with Redux and React",
+  "engines": {
+    "node": "8.7.0"
+  },
   "scripts": {
     "slate": "rm -rf node_modules && npm install",
     "clean": "rm -rf dist",
