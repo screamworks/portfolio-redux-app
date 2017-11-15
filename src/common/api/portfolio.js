@@ -2,7 +2,7 @@ export function getPortfolio() {
   return [
     {
     	link : 'http://parameals.com/#/',
-    	title : 'Parameals',
+    	title : 'Parameal',
     	classname : 'goldmans',
     	roles : [
     		{
@@ -23,7 +23,10 @@ export function getPortfolio() {
     		{
     			title : 'Front End Developer',
     			skills : 'AngularJS, CCS3, jQuery, ChartJS, ParticlesJS'
-    		}
+    		},{
+          title : 'Back End Developer',
+    			skills : 'Hediometer API, New York Times API'
+        }
     	]
     },
     {
