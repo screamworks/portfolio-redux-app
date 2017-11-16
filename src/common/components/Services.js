@@ -14,10 +14,10 @@ class Services extends Component {
 
           <h3>Prototypes/MVPs</h3>
 
-          <p>I can build you a prototype or a minimal viable product (MVP)for your idea. An MVP can validate your idea and help you raise funding.
+          <p>I can build you a prototype or a minimal viable product (MVP) for your idea. An MVP can validate your idea and help you raise funding.
           </p>
 
-          <p>The code I deliver will be the best possible foundations from which your application and idea can grow.</p>
+          <p>The code I deliver will be the best possible foundation from which your application and idea can grow.</p>
 
 	      	<h3>Training</h3>
 
@@ -31,10 +31,10 @@ class Services extends Component {
 
           <h3>Enterprise Web Apps</h3>
 
-          <p>Whether you are a Start-up or Bluechip company, I can help you build you a production ready web application.
+          <p>Whether you are a start-up or a bluechip company, I can help you build a production-ready web application.
           </p>
 
-          <p>The web application will be built with the best technologies and will be scalable, secure and maintainable.</p>
+          <p>The web application will be built with the best technologies and will be scalable, secure, and maintainable.</p>
 
           <h3>Hybridised Development</h3>
 
